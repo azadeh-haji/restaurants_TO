@@ -1,1 +1,1 @@
-# SM_Project
+# Profile of restaurants in Toronto
